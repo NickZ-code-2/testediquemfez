@@ -1,13 +1,14 @@
-@media (max-width:600px){
+
+@media (max-width:600px){}
     html,body{
         overflow-x:hidden;
- }
 body {
     background-color: #f5f5dc;
     transform:scale(0.95);
     transform-origin:top center;
 }
-a {
+    }
+a{
     font-family:cursive;
     font-size: 30px;
     color: #000d86;
