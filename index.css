@@ -1,5 +1,11 @@
+@media (max-width:600px){
+    html,body{
+        overflow-x:hidden;
+ }
 body {
     background-color: #f5f5dc;
+    transform:scale(0.95);
+    transform-origin:top center;
 }
 a {
     font-family:cursive;
